@@ -5,12 +5,7 @@ permalink: /about/
 ---
 
 <amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
+TETSTETETSTETSTWE
 
 Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
 cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
